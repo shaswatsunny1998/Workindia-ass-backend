@@ -1,4 +1,4 @@
-# WorkIndia Assesment - Backend
+# WorkIndia Assesment - Backend (Flask Application)
 
 ## Steps:
 
